@@ -1,0 +1,18 @@
+G:\Neural Networks\FaceRecPro\bin\Debug\Face Recognition.exe
+G:\Neural Networks\FaceRecPro\bin\Debug\Face Recognition.pdb
+G:\Neural Networks\FaceRecPro\bin\Debug\Emgu.CV.xml
+G:\Neural Networks\FaceRecPro\bin\Debug\Emgu.CV.UI.xml
+G:\Neural Networks\FaceRecPro\bin\Debug\Emgu.Util.xml
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\Face Recognition.exe
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\Face Recognition.pdb
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\FaceRecognition.frmEnrollment.resources
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\FaceRecognition.FrmPrincipal.resources
+G:\Neural Networks\FaceRecPro\obj\x86\Debug\FaceRecognition.frmAbout.resources
+C:\Users\HCT\Downloads\facerecognition\FaceRecognition\bin\Debug\Face Recognition.exe.config
+C:\Users\HCT\Downloads\facerecognition\FaceRecognition\obj\x86\Debug\Face Recognition.pdb
